@@ -1,0 +1,110 @@
+﻿WJPlayer 2.swf 影片报告
+
+
+
+元数据
+
+
+字节            值
+
+    
+
+       888    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2014-08-06T08:51:57+08:00</xmp:CreateDate> <xmp:MetadataDate>2014-10-08T15:55:12+08:00</xmp:MetadataDate> <xmp:ModifyDate>2014-10-08T15:55:12+08:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:A096CBAFBF4EE4119F3FC8511E6C61DB</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:A096CBAFBF4EE4119F3FC8511E6C61DB</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:F1E8FE70031DE4119C969572CAEA5EBC</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:D589ADEEBC4EE4119F3FC8511E6C61DB</stRef:instanceID> <stRef:documentID>xmp.did:ED8077824823E4118C56F8F4D267461F</stRef:documentID> <stRef:originalDocumentID>xmp.did:F1E8FE70031DE4119C969572CAEA5EBC</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+帧 #    帧字节           字节总数          场景
+
+    
+    
+    
+
+  1         60588         60588    场景 1 (AS 3.0 类导出帧)
+
+场景      形状字节          文本字节          ActionScript 字节
+
+    
+    
+    
+
+场景 1             0             0              31330
+
+符号               形状字节          文本字节          ActionScript 字节
+
+    
+    
+    
+
+btnFullScreen             0             0                  0
+LoadingBar               27             0                  0
+播放器窗口             0             0                  0
+元件 1                 57             0                  0
+元件 2                 21             0                  0
+Logo                      0             0                  0
+PlayButton                0             0                  0
+ReplayButton              0             0                  0
+StartMc                   0             0                  0
+VolumBar                  0             0                  0
+元件 10                24             0                  0
+声音进度条             0             0                  0
+音量滑块             56             0                  0
+提示                    0           109                  0
+播放按钮2             0             0                  0
+滑动块                 0             0                  0
+静音按钮             60             0                  0
+声音喇叭              0             0                  0
+时间面板              0           116                  0
+视频列表              0             0                  0
+左右按钮              0             0                  0
+视频皮肤              0             0                  0
+链接按钮             52             0                  0
+WaterPrint               33             0                  0
+元件 3                518             0                  0
+元件 2                 21             0                  0
+TipMc                   217             0                  0
+元件 1                 57             0                  0
+暂停按钮             30             0                  0
+全屏按钮              0             0                  0
+退出全屏按钮             0             0                  0
+元件 8                  0             0                  0
+元件 9                714             0                  0
+播放按钮             30             0                  0
+播放按钮大            32             0                  0
+ADTimer                 546           108                  0
+暂停按钮             30             0                  0
+Logo图标               31             0                  0
+静音按钮             60             0                  0
+元件 4                149             0                  0
+元件 5                 30             0                  0
+提示框                31             0                  0
+元件 6                 30             0                  0
+元件 7                404             0                  0
+
+字体名称              字节            字符
+
+    
+    
+
+MicrosoftYaHei          6520     !"#$%&'()*+,-./0123456789:;<=>?@[\]^_`{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript 字节    位置
+
+    
+
+          31330    场景 1:帧 1
+
+位图                     压缩后           原来的           压缩
+
+    
+    
+    
+
+播放器-图标.png          5635        640000    无损
+模板-LOGO右角131025.png          3871        737280    无损
+show_bg.png                  2146        293760    JPEG 品质=80
+btn_left_up.png               868          3744    无损
+btn_left_over.png             968          3744    无损
+btn_replay_up.png            1594         26364    JPEG 品质=80
+btn_replay_over.png          1740         26364    JPEG 品质=80
+
+
+
+
