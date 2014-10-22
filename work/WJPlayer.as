@@ -92,7 +92,7 @@
 			this.addChild(ui);
 			vc = new WJController(ui,vm);
 		//	ad="flv/2.flv";
-			video="http://365jia.cn/uploads/special/video/qw/538/gd.flv";
+			//video="http://365jia.cn/uploads/special/video/qw/538/gd.flv";
 			vc.playADAndFilm(ad,video,isWater);
 			
 			var wjVideo:WJVideo=new WJVideo();
