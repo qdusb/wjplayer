@@ -1,3 +1,0 @@
-wjplayer
-========
-author by cui
